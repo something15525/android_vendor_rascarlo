@@ -7,4 +7,4 @@ add_lunch_combo rascarlo_mako_en-user
 add_lunch_combo rascarlo_manta-user
 add_lunch_combo rascarlo_manta_en-user
 add_lunch_combo rascarlo_toro-user
-add_lunch_combo rascarlo-toroplus-user
+add_lunch_combo rascarlo_toroplus-user
